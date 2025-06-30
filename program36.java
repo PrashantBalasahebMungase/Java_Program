@@ -65,7 +65,7 @@ class Pattern
         }
     }
 }
-class program100
+class program36
 {
     public static void main(String A[])
     {
