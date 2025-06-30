@@ -74,7 +74,7 @@ class Pattern
     }
 }
 
-class program109
+class program44
 {
     public static void main(String A[])
     {
