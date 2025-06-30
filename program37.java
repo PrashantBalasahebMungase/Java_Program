@@ -80,7 +80,7 @@ class Pattern
         }
     }
 }
-class program101
+class program37
 {
     public static void main(String A[])
     {
