@@ -70,7 +70,7 @@ class Pattern
     }
 }
 
-class program110
+class program45
 {
     public static void main(String A[])
     {
